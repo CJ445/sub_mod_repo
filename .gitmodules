@@ -1,0 +1,3 @@
+[submodule "codechef"]
+	path = codechef
+	url = https://github.com/CJ445/codechef.git
